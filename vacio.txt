@@ -3,3 +3,5 @@ hola este archivo es para Git
 Probando volver en el tiempo en el repositorio
 
 reset y checkout
+
+En este archivo mas a probar las ramas o branches de Git

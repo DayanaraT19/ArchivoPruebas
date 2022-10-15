@@ -7,3 +7,4 @@ reset y checkout
 En este archivo mas a probar las ramas o branches de Git
 
 Se agrega una cabecera en la cabecera branch 
+Edicion de la cabecera para probar la fusion de ramas con git merge

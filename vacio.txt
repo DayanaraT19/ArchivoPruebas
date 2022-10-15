@@ -5,3 +5,5 @@ Probando volver en el tiempo en el repositorio
 reset y checkout
 
 En este archivo mas a probar las ramas o branches de Git
+
+Se agrega una cabecera en la cabecera branch 

@@ -13,5 +13,7 @@ Estamos en el master "Vamo a ver que pasa"
 Se agrega una cabecera en la cabecera branch 
 Se agrega de la cabecera para probar la fusion de ramas con git merge
 
+Se edita de la cabecera para probar la fusion de ramas con git merge
+
 
 Vamos con mas

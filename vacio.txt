@@ -1,4 +1,4 @@
-hola este archivo es para Git
+hola este archivo es para Git y GitHub
 
 Probando volver en el tiempo en el repositorio
 

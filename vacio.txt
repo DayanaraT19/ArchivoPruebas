@@ -1,0 +1,19 @@
+hola este archivo es para Git
+
+Probando volver en el tiempo en el repositorio
+
+reset y checkout
+
+En este archivo mas a probar las ramas o branches de Git
+
+Estamos en el master "Vamo a ver que pasa"
+
+
+
+Se agrega una cabecera en la cabecera branch 
+Se agrega de la cabecera para probar la fusion de ramas con git merge
+
+Se edita de la cabecera para probar la fusion de ramas con git merge
+
+
+Vamos con mas
